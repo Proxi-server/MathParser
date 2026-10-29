@@ -5,3 +5,5 @@ This is script for making from string to actual number, it supports numbers up t
 Looks like normal but its made for strings, for something like "224 ^ 592", or "22564 ^ x" but then you have add in settings: {variables = {x = 205}}
 
 Its a little buggy, also supports main math.functions you need, I built whole math
+
+I am new programmer, and this is the longest script I have ever wrotten, I just built whole math! Ok bye Star this
